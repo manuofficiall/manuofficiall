@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated BCA student currently in my final year, passionate about bridging the gap between clean code and data-driven insights. I spend my time building web applications and exploring the world of AI.<br><br>🎓 Education: Pursuing Bachelor of Computer Applications (BCA).<br><br>💻 Tech Interests: Full Stack Web Development, Data Analytics, and Machine Learning.<br><br>🛠 Current Projects: Working on predictive models (like Flight Price Prediction) and sharpening my Python skills.<br><br>🌟 Future Goals: Building a career in the IT industry followed by an MCA
+I am a dedicated BCA student currently in my final year, passionate about bridging the gap between clean code and data-driven insights. I spend my time building web applications and exploring the world of AI.<br><br>🎓 Education: Pursuing Bachelor of Computer Applications (BCA).<br><br>💻 Tech Interests: "Full-Stack Web Development, AI Integration, and API Architecture." .<br><br>🛠 Current Projects: "Developing AI-augmented web applications and mastering robust FastAPI architectures."<br><br>🌟 Future Goals: Building a career in the IT industry followed by an MCA
 
 
 ## 🌐 Socials:
